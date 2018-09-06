@@ -1,0 +1,154 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 10px;
+}
+.form-signin .checkbox {
+    font-weight: normal;
+}
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+img.scsLogo{
+    margin-left:auto; margin-right: auto; display:block; width: 70%; pointer-events: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -o-user-select: none; user-select: none;
+}
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+p.error{
+    color: #ff2200;
+    position: absolute;
+    top: 370px;
+    left: 300px;
+    right: 300px;
+    z-index: 10;
+}
+ul.register{
+    width: 70%;
+    margin: auto;
+    font-size: 9pt;
+}
+div.login{
+    width: 40%;
+    background-color: #ddd;
+}
+div.login2{
+    width: 90%;
+    background-color: #ddd;
+}
+div.login3{
+    width: 50%;
+    background-color: #ddd;
+}
+input[type="button"].qqid1{
+    background-color:#F02B36; border-color:#F02B36; width:40%; float: left; margin-right: 20px; margin-left: 10%;
+}
+input[type="button"].qqid1:hover{
+    background-color: #dc2832; border-color:#F02B36;
+}
+input[type="button"].qqid2{
+    background-color:#FFB30A; border-color:#FFB30A; width:40%;
+}
+input[type="button"].qqid2:hover{
+    background-color: #e59d0a; border-color:#FFB30A; width:40%;
+}
+input[type="button"].qqid3{
+    background-color:#81CC00; border-color:#81CC00; width:40%; float: left; margin-right: 20px; margin-left: 10%; margin-top: 15px;
+}
+input[type="button"].qqid3:hover{
+    background-color: #69b200; border-color:#81CC00; width:40%; float: left; margin-right: 20px; margin-left: 10%; margin-top: 15px;
+}
+input[type="button"].qqid4{
+    background-color:#41D9D9; border-color:#41D9D9; width:40%; margin-top: 15px;
+}
+input[type="button"].qqid4:hover{
+    background-color: #3ebfbf; border-color:#41D9D9; width:40%; margin-top: 15px;
+}
+input[type="button"].qqid5{
+    background-color:#7F3F98; border-color:#7F3F98; width:84%; margin-top: 15px; margin-right: 20px; margin-left: 10%;
+}
+input[type="button"].qqid5:hover{
+    background-color: #5f3a77; border-color:#7F3F98; width:84%; margin-top: 15px; margin-right: 20px; margin-left: 10%;
+}
+.submitbtn{
+    background-color:#5bc0de; border-color:#46b8da; width:85%; margin-right: 15%; margin-left: 7%; margin-top: 10px;
+}
+img.seasons{
+    width: 14px; height: 14px; float:left; margin-right: 8px;  margin-top: 3px; outline: none; pointer-events: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -o-user-select: none; user-select: none; -ms-user-select: none;
+}
+img.legends{
+    width: 14px; height: 14px; margin-bottom: 3px;  pointer-events: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -o-user-select: none; user-select: none; -ms-user-select: none;
+}
+div.result{
+    margin:0px;
+}
+div.courses{
+    height:38%;
+    resize: none;
+    margin-right:auto;
+    overflow: scroll;
+}
+div.editdiv{
+    height:50%; resize: none; margin-right:auto; overflow: scroll;
+}
+.nocourse{
+    color: #d11010;
+}
+h3.formTitle2{
+    width: 300px; display: table-cell; text-align: center;
+}
+div.titleWrapper{
+    display: block; width: 300px; margin-left: auto; margin-right: auto; margin-top: 30px; margin-bottom: 20px;
+}
+a.tabTitle{
+    color: #000000;
+}
+a.tabTitleF:hover {
+    /*color: #d11010;*/
+    color: rgb(183, 25, 0)
+}
+a.tabTitleW:hover {
+    /*color: #5BC0DE;*/
+    color: rgb(149, 201, 239)
+}
+a.tabTitleS:hover {
+    /*color: #81CC00;*/
+    color: rgb(180, 221, 58)
+}
+a.tabTitleI:hover {
+    /*color: #d11010;*/
+    color: rgb(183, 25, 0)
+}
+a.tabTitleC:hover {
+    color: #e59d0a;
+}
+/*TEST*/
+.paginginate_button {
+    color: rgb(149, 201, 239)
+}

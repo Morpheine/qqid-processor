@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/cron/classes/BazaarQry.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cron/classes/MarketQry.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cron/enrol_students.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cron/provision_qqid.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cron/qqid_emailer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cron/query_new_students.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/classes/Database.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/classes/Filters.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/classes/Report.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/controller.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/include/head.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/interface/include/head_modified.php" charset="UTF-8" />
+  </component>
+</project>
+

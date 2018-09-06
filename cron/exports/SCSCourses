@@ -1,0 +1,349 @@
+External_Course_Key|Course_Id|Available_Ind|Course_Name|Allow_Guest_Ind|Template_Course_Key
+SCS_0081_099|SCS_0081_099|Y|Quantitative Methods for Business Management|N|SCS_0002_007
+SCS_0081_111|SCS_0081_111|Y|Quantitative Methods for Business Management|N|SCS_0002_007
+SCS_0083_040|SCS_0083_040|Y|Corporate Finance and Performance Analysis|N|SCS_0002_007
+SCS_0150_059|SCS_0150_059|Y|Academic English|N|SCS_0002_007
+SCS_0215_042|SCS_0215_042|Y|E-Learning Program Planning and Implementation|N|SCS_0002_007
+SCS_0216_040|SCS_0216_040|Y|How to Design an E-Learning Program|N|SCS_0002_007
+SCS_0217_048|SCS_0217_048|Y|Visual Design and Display of Information|N|SCS_0002_007
+SCS_0219_043|SCS_0219_043|Y|Knowledge Management|N|SCS_0002_007
+SCS_0442_043|SCS_0442_043|Y|Japanese: Level I|N|SCS_0002_007
+SCS_0579_050|SCS_0579_050|Y|Spanish: Level III|N|SCS_0002_007
+SCS_0579_051|SCS_0579_051|Y|Spanish: Level III|N|SCS_0002_007
+SCS_0582_082|SCS_0582_082|Y|Chinese - Mandarin: Level I|N|SCS_0002_007
+SCS_0582_083|SCS_0582_083|Y|Chinese - Mandarin: Level I|N|SCS_0002_007
+SCS_0582_087|SCS_0582_087|Y|Chinese - Mandarin: Level I (Accelerated)|N|SCS_0002_007
+SCS_0586_118|SCS_0586_118|Y|Spanish: Level I|N|SCS_0002_007
+SCS_0586_123|SCS_0586_123|Y|Spanish: Level I (At Own Pace)|N|SCS_0002_007
+SCS_0586_119|SCS_0586_119|Y|Spanish: Level I|N|SCS_0002_007
+SCS_0588_072|SCS_0588_072|Y|Italian: Level I|N|SCS_0002_007
+SCS_0593_090|SCS_0593_090|Y|Spanish: Level II|N|SCS_0002_007
+SCS_0594_053|SCS_0594_053|Y|Japanese: Level II|N|SCS_0002_007
+SCS_0595_023|SCS_0595_023|Y|Japanese-Level V|N|SCS_0002_007
+SCS_0610_061|SCS_0610_061|Y|Translation-Mandarin: Level I|N|SCS_0002_007
+SCS_0613_064|SCS_0613_064|Y|Translation - Cantonese: Level I|N|SCS_0002_007
+SCS_0617_047|SCS_0617_047|Y|Translation-Korean: Level I|N|SCS_0002_007
+SCS_0619_053|SCS_0619_053|Y|Translation - Spanish: Level I|N|SCS_0002_007
+SCS_0622_053|SCS_0622_053|Y|Translation - Spanish: Level II|N|SCS_0002_007
+SCS_0623_060|SCS_0623_060|Y|Translation-Mandarin: Level II|N|SCS_0002_007
+SCS_0624_063|SCS_0624_063|Y|Translation - Cantonese: Level II|N|SCS_0002_007
+SCS_0625_047|SCS_0625_047|Y|Translation-Korean: Level II|N|SCS_0002_007
+SCS_0630_047|SCS_0630_047|Y|Translation-Korean: Level III|N|SCS_0002_007
+SCS_0631_061|SCS_0631_061|Y|Translation-Mandarin: Level III|N|SCS_0002_007
+SCS_0632_062|SCS_0632_062|Y|Translation - Cantonese: Level III|N|SCS_0002_007
+SCS_0633_047|SCS_0633_047|Y|Translation - Spanish: Level III|N|SCS_0002_007
+SCS_0651_043|SCS_0651_043|Y|Translation-Japanese: Level I|N|SCS_0002_007
+SCS_0662_076|SCS_0662_076|Y|Translation-French: Level I|N|SCS_0002_007
+SCS_0663_076|SCS_0663_076|Y|Translation-French: Level II|N|SCS_0002_007
+SCS_0665_076|SCS_0665_076|Y|Translation-French: Level III|N|SCS_0002_007
+SCS_0667_205|SCS_0667_205|Y|French: Level I|N|SCS_0002_007
+SCS_0667_236|SCS_0667_236|Y|French: Level I|N|SCS_0002_007
+SCS_0669_155|SCS_0669_155|Y|French: Level II|N|SCS_0002_007
+SCS_0914_043|SCS_0914_043|Y|Advanced Financial Accounting|N|SCS_0002_007
+SCS_0915_064|SCS_0915_064|Y|Advanced Management Accounting|N|SCS_0002_007
+SCS_0915_061|SCS_0915_061|Y|Advanced Management Accounting|N|SCS_0002_007
+SCS_0973_160|SCS_0973_160|Y|Business Law (Quebec Civil Code)|N|SCS_0002_007
+SCS_0973_156|SCS_0973_156|Y|Business Law|N|SCS_0002_007
+SCS_0973_157|SCS_0973_157|Y|Business Law|N|SCS_0002_007
+SCS_0974_131|SCS_0974_131|Y|Business Strategy|N|SCS_0002_007
+SCS_0974_130|SCS_0974_130|Y|Business Strategy|N|SCS_0002_007
+SCS_0975_086|SCS_0975_086|Y|Taxation for Canadian Business|N|SCS_0002_007
+SCS_0975_075|SCS_0975_075|Y|Taxation for Canadian Business|N|SCS_0002_007
+SCS_0975_078|SCS_0975_078|Y|Taxation for Canadian Business|N|SCS_0002_007
+SCS_0976_123|SCS_0976_123|Y|Financial Management|N|SCS_0002_007
+SCS_0976_126|SCS_0976_126|Y|Financial Management|N|SCS_0002_007
+SCS_0977_170|SCS_0977_170|Y|Business Management|N|SCS_0002_007
+SCS_0977_173|SCS_0977_173|Y|Business Management|N|SCS_0002_007
+SCS_0978_173|SCS_0978_173|Y|Marketing: An Introduction|N|SCS_0002_007
+SCS_0978_172|SCS_0978_172|Y|Marketing: An Introduction|N|SCS_0002_007
+SCS_0980_130|SCS_0980_130|Y|Economics, Introductory|N|SCS_0002_007
+SCS_0980_131|SCS_0980_131|Y|Economics, Introductory|N|SCS_0002_007
+SCS_0982_082|SCS_0982_082|Y|Intermediate Financial Accounting and Analysis|N|SCS_0002_007
+SCS_0982_094|SCS_0982_094|Y|Intermediate Financial Accounting and Analysis|N|SCS_0002_007
+SCS_0983_087|SCS_0983_087|Y|Management Accounting|N|SCS_0002_007
+SCS_0983_093|SCS_0983_093|Y|Management Accounting|N|SCS_0002_007
+SCS_0983_090|SCS_0983_090|Y|Management Accounting|N|SCS_0002_007
+SCS_0984_250|SCS_0984_250|Y|Accounting: The Fundamentals|N|SCS_0002_007
+SCS_0984_268|SCS_0984_268|Y|Accounting: The Fundamentals|N|SCS_0002_007
+SCS_0984_238|SCS_0984_238|Y|Accounting: The Fundamentals|N|SCS_0002_007
+SCS_0984_269|SCS_0984_269|Y|Accounting: The Fundamentals|N|SCS_0002_007
+SCS_0984_244|SCS_0984_244|Y|Accounting: The Fundamentals|N|SCS_0002_007
+SCS_0985_129|SCS_0985_129|Y|Risk Control|N|SCS_0002_007
+SCS_0985_130|SCS_0985_130|Y|Risk Control|N|SCS_0002_007
+SCS_0985_157|SCS_0985_157|Y|Risk Control|N|SCS_0002_007
+SCS_0985_159|SCS_0985_159|Y|Risk Control|N|SCS_0002_007
+SCS_0985_158|SCS_0985_158|Y|Risk Control|N|SCS_0002_007
+SCS_0985_133|SCS_0985_133|Y|Risk Control|N|SCS_0002_007
+SCS_0986_154|SCS_0986_154|Y|Risk Financing|N|SCS_0002_007
+SCS_0986_127|SCS_0986_127|Y|Risk Financing|N|SCS_0002_007
+SCS_0986_152|SCS_0986_152|Y|Risk Financing|N|SCS_0002_007
+SCS_0986_124|SCS_0986_124|Y|Risk Financing|N|SCS_0002_007
+SCS_0986_151|SCS_0986_151|Y|Risk Financing|N|SCS_0002_007
+SCS_0986_153|SCS_0986_153|Y|Risk Financing|N|SCS_0002_007
+SCS_0987_131|SCS_0987_131|Y|Human Resources Management|N|SCS_0002_007
+SCS_0987_132|SCS_0987_132|Y|Human Resources Management|N|SCS_0002_007
+SCS_0988_109|SCS_0988_109|Y|Organizational Behaviour|N|SCS_0002_007
+SCS_1004_021|SCS_1004_021|Y|Arabic (Modern Standard): Level II (In Real Time)|N|SCS_0002_007
+SCS_1005_012|SCS_1005_012|Y|Arabic (Modern Standard): Level III|N|SCS_0002_007
+SCS_1005_013|SCS_1005_013|Y|Arabic (Modern Standard): Level III|N|SCS_0002_007
+SCS_1008_059|SCS_1008_059|Y|Chinese - Mandarin: Level II (In Real Time)|N|SCS_0002_007
+SCS_1008_057|SCS_1008_057|Y|Chinese - Mandarin: Level II (Accelerated)|N|SCS_0002_007
+SCS_1008_053|SCS_1008_053|Y|Chinese - Mandarin: Level II|N|SCS_0002_007
+SCS_1011_030|SCS_1011_030|Y|Chinese - Mandarin: Level IV (Accelerated)|N|SCS_0002_007
+SCS_1016_050|SCS_1016_050|Y|Italian: Level II|N|SCS_0002_007
+SCS_1017_043|SCS_1017_043|Y|Italian: Level III|N|SCS_0002_007
+SCS_1024_019|SCS_1024_019|Y|Cantonese: Level III|N|SCS_0002_007
+SCS_1120_087|SCS_1120_087|Y|Professionally Speaking|N|SCS_0002_007
+SCS_1120_085|SCS_1120_085|Y|Professionally Speaking|N|SCS_0002_007
+SCS_1120_086|SCS_1120_086|Y|Professionally Speaking|N|SCS_0002_007
+SCS_1121_108|SCS_1121_108|Y|Speaking Accurately|N|SCS_0002_007
+SCS_1121_109|SCS_1121_109|Y|Speaking Accurately|N|SCS_0002_007
+SCS_1129_033|SCS_1129_033|Y|Translation-Japanese: Level II|N|SCS_0002_007
+SCS_1130_033|SCS_1130_033|Y|Translation-Japanese: Level III|N|SCS_0002_007
+SCS_1176_020|SCS_1176_020|Y|Marketing Essentials and Media Campaigns for Business|N|SCS_0002_007
+SCS_1209_093|SCS_1209_093|Y|Management Information Systems (MIS)|N|SCS_0002_007
+SCS_1209_090|SCS_1209_090|Y|Management Information Systems (MIS)|N|SCS_0002_007
+SCS_1333_041|SCS_1333_041|Y|Refine Your Grammar I|N|SCS_0002_007
+SCS_1337_096|SCS_1337_096|Y|Writing Essentials I|N|SCS_0002_007
+SCS_1337_093|SCS_1337_093|Y|Writing Essentials I|N|SCS_0002_007
+SCS_1337_094|SCS_1337_094|Y|Writing Essentials I|N|SCS_0002_007
+SCS_1344_046|SCS_1344_046|Y|Copywriting That Sells|N|SCS_0002_007
+SCS_1348_130|SCS_1348_130|Y|The Business Approach to Writing|N|SCS_0002_007
+SCS_1348_131|SCS_1348_131|Y|The Business Approach to Writing|N|SCS_0002_007
+SCS_1490_029|SCS_1490_029|Y|Translation - Portuguese: Level I|N|SCS_0002_007
+SCS_1491_029|SCS_1491_029|Y|Translation - Portuguese: Level II|N|SCS_0002_007
+SCS_1492_029|SCS_1492_029|Y|Translation - Portuguese: Level III|N|SCS_0002_007
+SCS_1527_104|SCS_1527_104|Y|Passing the PMP Certification Exam|N|SCS_0002_007
+SCS_1527_085|SCS_1527_085|Y|Passing the PMP Certification Exam|N|SCS_0002_007
+SCS_1527_090|SCS_1527_090|Y|Passing the PMP Certification Exam|N|SCS_0002_007
+SCS_1528_037|SCS_1528_037|Y|Recruitment and Selection|N|SCS_0002_007
+SCS_1529_033|SCS_1529_033|Y|Compensation|N|SCS_0002_007
+SCS_1565_025|SCS_1565_025|Y|Spanish: Level IV|N|SCS_0002_007
+SCS_1566_029|SCS_1566_029|Y|Chinese - Mandarin: Level III|N|SCS_0002_007
+SCS_1566_031|SCS_1566_031|Y|Chinese - Mandarin: Level III (Accelerated)|N|SCS_0002_007
+SCS_1566_028|SCS_1566_028|Y|Chinese - Mandarin: Level III|N|SCS_0002_007
+SCS_1664_253|SCS_1664_253|Y|Creative Writing: Introduction|N|SCS_0002_007
+SCS_1664_260|SCS_1664_260|Y|Creative Writing: Introduction|N|SCS_0002_007
+SCS_1664_262|SCS_1664_262|Y|Creative Writing: Introduction|N|SCS_0002_007
+SCS_1671_011|SCS_1671_011|Y|Summer Writing School: Poetry|N|SCS_0002_007
+SCS_1672_010|SCS_1672_010|Y|Summer Writing School: Short Story Workshop|N|SCS_0002_007
+SCS_1674_011|SCS_1674_011|Y|Summer Writing School: Narrative Non-Fiction|N|SCS_0002_007
+SCS_1680_097|SCS_1680_097|Y|Writing Short Fiction: Introduction|N|SCS_0002_007
+SCS_1680_098|SCS_1680_098|Y|Writing Short Fiction: Introduction|N|SCS_0002_007
+SCS_1681_015|SCS_1681_015|Y|Creative Writing Final Project Tutorial|N|SCS_0002_007
+SCS_1684_031|SCS_1684_031|Y|Creative Writing II|N|SCS_0002_007
+SCS_1686_029|SCS_1686_029|Y|Online Mentor|N|SCS_0002_007
+SCS_1687_051|SCS_1687_051|Y|Poetry: Introduction|N|SCS_0002_007
+SCS_1691_059|SCS_1691_059|Y|Creative Non-Fiction: Introduction|N|SCS_0002_007
+SCS_1691_060|SCS_1691_060|Y|Creative Non-Fiction: Introduction|N|SCS_0002_007
+SCS_1701_031|SCS_1701_031|Y|Writing the Novel II|N|SCS_0002_007
+SCS_1709_058|SCS_1709_058|Y|Screenwriting: Introduction|N|SCS_0002_007
+SCS_1709_059|SCS_1709_059|Y|Screenwriting: Introduction|N|SCS_0002_007
+SCS_1709_057|SCS_1709_057|Y|Screenwriting: Introduction|N|SCS_0002_007
+SCS_1782_012|SCS_1782_012|Y|Business Strategy (Cantonese)|N|SCS_0002_007
+SCS_1803_031|SCS_1803_031|Y|Introduction:Applied Translation Theory-French|N|SCS_0002_007
+SCS_1804_027|SCS_1804_027|Y|Introduction:Applied Translation Theory-Mandarin|N|SCS_0002_007
+SCS_1828_009|SCS_1828_009|Y|Summer Writing School: Mystery and Suspense Writing|N|SCS_0002_007
+SCS_1843_029|SCS_1843_029|Y|Writing for the Web|N|SCS_0002_007
+SCS_1860_220|SCS_1860_220|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_236|SCS_1860_236|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_249|SCS_1860_249|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_253|SCS_1860_253|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_233|SCS_1860_233|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_250|SCS_1860_250|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_230|SCS_1860_230|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_231|SCS_1860_231|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_251|SCS_1860_251|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_252|SCS_1860_252|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_254|SCS_1860_254|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_221|SCS_1860_221|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1860_232|SCS_1860_232|Y|Foundations of Project Management|N|SCS_0002_007
+SCS_1908_024|SCS_1908_024|Y|Listening Strategies|N|SCS_0002_007
+SCS_1912_029|SCS_1912_029|Y|Academic Writing|N|SCS_0002_007
+SCS_1913_022|SCS_1913_022|Y|Academically Speaking|N|SCS_0002_007
+SCS_1914_064|SCS_1914_064|Y|Professional Writing|N|SCS_0002_007
+SCS_1914_065|SCS_1914_065|Y|Professional Writing|N|SCS_0002_007
+SCS_1914_069|SCS_1914_069|Y|Professional Writing|N|SCS_0002_007
+SCS_1937_121|SCS_1937_121|Y|Project Implementation and Control|N|SCS_0002_007
+SCS_1937_122|SCS_1937_122|Y|Project Implementation and Control|N|SCS_0002_007
+SCS_1937_126|SCS_1937_126|Y|Project Implementation and Control|N|SCS_0002_007
+SCS_1937_127|SCS_1937_127|Y|Project Implementation and Control|N|SCS_0002_007
+SCS_1937_125|SCS_1937_125|Y|Project Implementation and Control|N|SCS_0002_007
+SCS_1937_124|SCS_1937_124|Y|Project Implementation and Control|N|SCS_0002_007
+SCS_1952_133|SCS_1952_133|Y|Leading Projects in Organizations|N|SCS_0002_007
+SCS_1952_137|SCS_1952_137|Y|Leading Projects in Organizations|N|SCS_0002_007
+SCS_1952_146|SCS_1952_146|Y|Leading Projects in Organizations|N|SCS_0002_007
+SCS_1952_153|SCS_1952_153|Y|Leading Projects in Organizations|N|SCS_0002_007
+SCS_1952_144|SCS_1952_144|Y|Leading Projects in Organizations|N|SCS_0002_007
+SCS_1952_154|SCS_1952_154|Y|Leading Projects in Organizations|N|SCS_0002_007
+SCS_1952_145|SCS_1952_145|Y|Leading Projects in Organizations|N|SCS_0002_007
+SCS_1971_026|SCS_1971_026|Y|Introduction: Applied Translation Theory-Cantonese|N|SCS_0002_007
+SCS_1972_023|SCS_1972_023|Y|Introduction:Applied Translation Theory-Korean|N|SCS_0002_007
+SCS_1973_023|SCS_1973_023|Y|Introduction:Applied Translation Theory-Portuguese|N|SCS_0002_007
+SCS_1974_023|SCS_1974_023|Y|Introduction-Applied Translation Theory-Spanish|N|SCS_0002_007
+SCS_1993_008|SCS_1993_008|Y|Summer Writing School: Screenwriting|N|SCS_0002_007
+SCS_1994_008|SCS_1994_008|Y|Summer Writing School: Songwriting|N|SCS_0002_007
+SCS_2007_024|SCS_2007_024|Y|Training and Development|N|SCS_0002_007
+SCS_2009_018|SCS_2009_018|Y|Industrial/Labour Relations|N|SCS_0002_007
+SCS_2010_024|SCS_2010_024|Y|Human Resource Planning|N|SCS_0002_007
+SCS_2023_025|SCS_2023_025|Y|Technical Analysis of Financial Markets|N|SCS_0002_007
+SCS_2072_055|SCS_2072_055|Y|Be An Effective Negotiator|N|SCS_0002_007
+SCS_2074_022|SCS_2074_022|Y|Introduction: Applied Translation Theory-Japanese|N|SCS_0002_007
+SCS_2080_035|SCS_2080_035|Y|Powerful Negotiation Skills|N|SCS_0002_007
+SCS_2081_032|SCS_2081_032|Y|The Budgeting Process|N|SCS_0002_007
+SCS_2089_042|SCS_2089_042|Y|Managing People Essentials|N|SCS_0002_007
+SCS_2121_035|SCS_2121_035|Y|Principles of Operations & Supply Chain Management|N|SCS_0002_007
+SCS_2121_031|SCS_2121_031|Y|Principles of Operations & Supply Chain Management|N|SCS_0002_007
+SCS_2129_017|SCS_2129_017|Y|Operations Supply Chain Management|N|SCS_0002_007
+SCS_2149_036|SCS_2149_036|Y|Critical Thinking Essentials (Day Seminar)|N|SCS_0002_007
+SCS_2149_035|SCS_2149_035|Y|Critical Thinking Essentials|N|SCS_0002_007
+SCS_2191_014|SCS_2191_014|Y|Option Trading and Strategies|N|SCS_0002_007
+SCS_2203_007|SCS_2203_007|Y|Summer Writing School: Creating Comics and Graphic Novels|N|SCS_0002_007
+SCS_2233_029|SCS_2233_029|Y|Risk Management in Projects|N|SCS_0002_007
+SCS_2234_029|SCS_2234_029|Y|Quality Management in Projects|N|SCS_0002_007
+SCS_2235_023|SCS_2235_023|Y|Program and  Portfolio Management|N|SCS_0002_007
+SCS_2236_026|SCS_2236_026|Y|Managing International Projects|N|SCS_0002_007
+SCS_2242_022|SCS_2242_022|Y|Managing People Advanced (Day Seminar)|N|SCS_0002_007
+SCS_2274_018|SCS_2274_018|Y|Reading and Writing German|N|SCS_0002_007
+SCS_2275_018|SCS_2275_018|Y|Reading and Writing Italian|N|SCS_0002_007
+SCS_2281_012|SCS_2281_012|Y|Life Stories|N|SCS_0002_007
+SCS_2282_017|SCS_2282_017|Y|Memories into Story: Life Writing|N|SCS_0002_007
+SCS_2329_020|SCS_2329_020|Y|Critical Thinking Advanced (Day Seminar)|N|SCS_0002_007
+SCS_2329_021|SCS_2329_021|Y|Critical Thinking Advanced (Day Seminar)|N|SCS_0002_007
+SCS_2331_016|SCS_2331_016|Y|External Auditing|N|SCS_0002_007
+SCS_2332_021|SCS_2332_021|Y|Internal Auditing Standards - Introduction|N|SCS_0002_007
+SCS_2337_009|SCS_2337_009|Y|Passing the FRM Exam - Part 2|N|SCS_0002_007
+SCS_2347_011|SCS_2347_011|Y|HVAC Systems & The Building Envelope|N|SCS_0002_007
+SCS_2355_032|SCS_2355_032|Y|Understanding & Managing Conflict (Day Seminar)|N|SCS_0002_007
+SCS_2372_005|SCS_2372_005|Y|Chinese - Mandarin: Level V|N|SCS_0002_007
+SCS_2379_090|SCS_2379_090|Y|The Foundations of Business Analysis|N|SCS_0002_007
+SCS_2379_113|SCS_2379_113|Y|Foundations of Business Analysis|N|SCS_0002_007
+SCS_2379_114|SCS_2379_114|Y|Foundations of Business Analysis|N|SCS_0002_007
+SCS_2379_115|SCS_2379_115|Y|Foundations of Business Analysis|N|SCS_0002_007
+SCS_2379_091|SCS_2379_091|Y|The Foundations of Business Analysis|N|SCS_0002_007
+SCS_2379_112|SCS_2379_112|Y|Foundations of Business Analysis|N|SCS_0002_007
+SCS_2382_064|SCS_2382_064|Y|Leadership in Business Analysis|N|SCS_0002_007
+SCS_2382_067|SCS_2382_067|Y|Leadership in Business Analysis|N|SCS_0002_007
+SCS_2382_065|SCS_2382_065|Y|Leadership in Business Analysis|N|SCS_0002_007
+SCS_2382_066|SCS_2382_066|Y|Leadership in Business Analysis|N|SCS_0002_007
+SCS_2382_083|SCS_2382_083|Y|Leadership in Business Analysis|N|SCS_0002_007
+SCS_2383_063|SCS_2383_063|Y|Business Analysis Tools and Techniques|N|SCS_0002_007
+SCS_2383_081|SCS_2383_081|Y|Business Analysis Tools and Techniques|N|SCS_0002_007
+SCS_2383_062|SCS_2383_062|Y|Business Analysis Tools and Techniques|N|SCS_0002_007
+SCS_2383_060|SCS_2383_060|Y|Business Analysis Tools and Techniques|N|SCS_0002_007
+SCS_2383_061|SCS_2383_061|Y|Business Analysis Tools and Techniques|N|SCS_0002_007
+SCS_2384_008|SCS_2384_008|Y|Summer Writing School: Dark Fantasy|N|SCS_0002_007
+SCS_2390_010|SCS_2390_010|Y|Freelance Final Project Tutorial|N|SCS_0002_007
+SCS_2397_017|SCS_2397_017|Y|Reading and Writing Japanese|N|SCS_0002_007
+SCS_2402_018|SCS_2402_018|Y|Advanced Academic Writing|N|SCS_0002_007
+SCS_2433_002|SCS_2433_002|Y|How Your Brain Works|N|SCS_0002_007
+SCS_2438_004|SCS_2438_004|Y|Toronto's Neighbourhood Architecture|N|SCS_0002_007
+SCS_2469_022|SCS_2469_022|Y|Leading Projects in Organizations (Day Seminar)|N|SCS_0002_007
+SCS_2502_022|SCS_2502_022|Y|LEED Green Building Strategies and Green Associate Exam Preparation|N|SCS_0002_007
+SCS_2520_009|SCS_2520_009|Y|Understanding Financial Statements and Canadian Taxation (Cantonese)|N|SCS_0002_007
+SCS_2523_011|SCS_2523_011|Y|Win With Strategy|N|SCS_0002_007
+SCS_2531_079|SCS_2531_079|Y|Canadian Workplace Culture and Communication|N|SCS_0002_007
+SCS_2531_077|SCS_2531_077|Y|Canadian Workplace Culture and Communication|N|SCS_0002_007
+SCS_2531_075|SCS_2531_075|Y|Canadian Workplace Culture and Communication|N|SCS_0002_007
+SCS_2531_076|SCS_2531_076|Y|Canadian Workplace Culture and Communication|N|SCS_0002_007
+SCS_2531_078|SCS_2531_078|Y|Canadian Workplace Culture and Communication|N|SCS_0002_007
+SCS_2544_021|SCS_2544_021|Y|Advanced Lean Six Sigma Techniques|N|SCS_0002_007
+SCS_2544_026|SCS_2544_026|Y|Advanced Lean Six Sigma Techniques|N|SCS_0002_007
+SCS_2564_034|SCS_2564_034|Y|Foundations of Business Process Management (BPM)|N|SCS_0002_007
+SCS_2564_033|SCS_2564_033|Y|Foundations of Business Process Management (BPM)|N|SCS_0002_007
+SCS_2565_022|SCS_2565_022|Y|Tools & Techniques of Business Process Management (BPM)|N|SCS_0002_007
+SCS_2570_006|SCS_2570_006|Y|Summer Writing School: Historical Fiction|N|SCS_0002_007
+SCS_2591_003|SCS_2591_003|Y|Architecture: All Around Us|N|SCS_0002_007
+SCS_2621_012|SCS_2621_012|Y|Newspaper Translation into Spanish|N|SCS_0002_007
+SCS_2640_016|SCS_2640_016|Y|Writing Essentials II|N|SCS_0002_007
+SCS_2648_011|SCS_2648_011|Y|International Trade Finance|N|SCS_0002_007
+SCS_2649_006|SCS_2649_006|Y|Import-Export Procedures|N|SCS_0002_007
+SCS_2674_015|SCS_2674_015|Y|Foundations of Facility Management|N|SCS_0002_007
+SCS_2675_009|SCS_2675_009|Y|Leadership of Facility Management in Organizations|N|SCS_0002_007
+SCS_2676_007|SCS_2676_007|Y|The Tools, Techniques and Technology of Facility Management|N|SCS_0002_007
+SCS_2680_009|SCS_2680_009|Y|iOS Mobile Application Development|N|SCS_0002_007
+SCS_2681_012|SCS_2681_012|Y|Passing The Canadian Securities Course (CSC)® Exam|N|SCS_0002_007
+SCS_2682_009|SCS_2682_009|Y|Mobile Applications for Android Devices|N|SCS_0002_007
+SCS_2690_015|SCS_2690_015|Y|Foundations of Enterprise Architecture|N|SCS_0002_007
+SCS_2699_021|SCS_2699_021|Y|Foundations of Quality and Process Excellence|N|SCS_0002_007
+SCS_2699_022|SCS_2699_022|Y|Foundations of Quality and Process Excellence|N|SCS_0002_007
+SCS_2700_022|SCS_2700_022|Y|Lean Six Sigma Essentials|N|SCS_0002_007
+SCS_2700_023|SCS_2700_023|Y|Lean Six Sigma Essentials|N|SCS_0002_007
+SCS_2705_013|SCS_2705_013|Y|Conflict Management Skills|N|SCS_0002_007
+SCS_2706_005|SCS_2706_005|Y|Summer Writing School: Writing the Memoir|N|SCS_0002_007
+SCS_2741_003|SCS_2741_003|Y|Atheism, Agnosticism and Apostasy: A Survey of Religious Doubt|N|SCS_0002_007
+SCS_2748_011|SCS_2748_011|Y|Agile Practices in Project Management|N|SCS_0002_007
+SCS_2749_007|SCS_2749_007|Y|Writing Popular Fiction|N|SCS_0002_007
+SCS_2752_006|SCS_2752_006|Y|Business Analysis Tools & Techniques for Financial Services|N|SCS_0002_007
+SCS_2756_008|SCS_2756_008|Y|Employment in Life Sciences|N|SCS_0002_007
+SCS_2757_008|SCS_2757_008|Y|Good Manufacturing Practice (GMP) & Good Laboratory Practice (GLP)|N|SCS_0002_007
+SCS_2796_006|SCS_2796_006|Y|Choosing Income Investments|N|SCS_0002_007
+SCS_2799_012|SCS_2799_012|Y|Project Management Office (PMO)|N|SCS_0002_007
+SCS_2810_023|SCS_2810_023|Y|Online Business Fundamentals and Strategies|N|SCS_0002_007
+SCS_2810_024|SCS_2810_024|Y|Online Business Fundamentals and Strategies|N|SCS_0002_007
+SCS_2830_008|SCS_2830_008|Y|Foundations of Energy Management|N|SCS_0002_007
+SCS_2832_004|SCS_2832_004|Y|The Tools and Techniques of Energy Management|N|SCS_0002_007
+SCS_2844_016|SCS_2844_016|Y|Foundations of Digital Marketing Management|N|SCS_0002_007
+SCS_2844_030|SCS_2844_030|Y|Foundations of Digital Marketing Management|N|SCS_0002_007
+SCS_2844_017|SCS_2844_017|Y|Foundations of Digital Marketing Management|N|SCS_0002_007
+SCS_2845_012|SCS_2845_012|Y|Search Engine Marketing|N|SCS_0002_007
+SCS_2845_013|SCS_2845_013|Y|Search Engine Marketing|N|SCS_0002_007
+SCS_2845_011|SCS_2845_011|Y|Search Engine Marketing|N|SCS_0002_007
+SCS_2846_010|SCS_2846_010|Y|Social Media Strategy|N|SCS_0002_007
+SCS_2846_014|SCS_2846_014|Y|Social Media Strategy|N|SCS_0002_007
+SCS_2853_010|SCS_2853_010|Y|Business Analysis Practices in Project Management|N|SCS_0002_007
+SCS_2854_006|SCS_2854_006|Y|Foundations of Cloud Computing|N|SCS_0002_007
+SCS_2855_006|SCS_2855_006|Y|Design and Architecture of Cloud Systems|N|SCS_0002_007
+SCS_2856_003|SCS_2856_003|Y|Cloud Systems in Practice|N|SCS_0002_007
+SCS_2857_003|SCS_2857_003|Y|Business Analysis CGA Day Seminar|N|SCS_0002_007
+SCS_2858_003|SCS_2858_003|Y|Conflict Management and Negotiation CGA Day Seminar|N|SCS_0002_007
+SCS_2875_023|SCS_2875_023|Y|Foundations of Digital Communications Strategy and Social Media|N|SCS_0002_007
+SCS_2875_019|SCS_2875_019|Y|Foundations of Digital Communications Strategy and Social Media|N|SCS_0002_007
+SCS_2875_020|SCS_2875_020|Y|Foundations of Digital Communications Strategy and Social Media|N|SCS_0002_007
+SCS_2904_020|SCS_2904_020|Y|Freelance Writing Fundamentals|N|SCS_0002_007
+SCS_2912_003|SCS_2912_003|Y|Summer Writing School: Column Writing|N|SCS_0002_007
+SCS_2916_004|SCS_2916_004|Y|Leading People|N|SCS_0002_007
+SCS_2921_027|SCS_2921_027|Y|The Foundations of Risk Management|N|SCS_0002_007
+SCS_2921_033|SCS_2921_033|Y|The Foundations of Risk Management|N|SCS_0002_007
+SCS_2921_032|SCS_2921_032|Y|The Foundations of Risk Management|N|SCS_0002_007
+SCS_2921_026|SCS_2921_026|Y|The Foundations of Risk Management|N|SCS_0002_007
+SCS_2921_058|SCS_2921_058|Y|The Foundations of Risk Management|N|SCS_0002_007
+SCS_2923_006|SCS_2923_006|Y|Foundations of Brand Management|N|SCS_0002_007
+SCS_2924_002|SCS_2924_002|Y|Pillars of Revenue Customer Acquisition,Retention&Revenue Per Customer|N|SCS_0002_007
+SCS_2927_007|SCS_2927_007|Y|Foundations in Entrepreneurial Management|N|SCS_0002_007
+SCS_2930_005|SCS_2930_005|Y|Finding and Marketing to Customers|N|SCS_0002_007
+SCS_2942_027|SCS_2942_027|Y|Foundations of Enterprise Data Analytics Concepts and Controls|N|SCS_0002_007
+SCS_2942_011|SCS_2942_011|Y|Foundations of Enterprise Data Analytics Concepts and Controls|N|SCS_0002_007
+SCS_2942_015|SCS_2942_015|Y|Foundations of Enterprise Data Analytics Concepts and Controls|N|SCS_0002_007
+SCS_2943_007|SCS_2943_007|Y|Value Proposition and Technologies of Enterprise Data Analytics|N|SCS_0002_007
+SCS_2943_008|SCS_2943_008|Y|Value Proposition and Technologies of Enterprise Data Analytics|N|SCS_0002_007
+SCS_2944_006|SCS_2944_006|Y|Data Management from Enterprise Data Analytics to Data-Based Decision Making|N|SCS_0002_007
+SCS_2956_004|SCS_2956_004|Y|Academic English Level 60 Conditional Acceptance|N|SCS_0002_007
+SCS_2957_002|SCS_2957_002|Y|French through Film|N|SCS_0002_007
+SCS_2966_015|SCS_2966_015|Y|Social on the Inside: Digital Strategies for the Enterprise|N|SCS_0002_007
+SCS_3006_001|SCS_3006_001|Y|Studying at Raphael's School of Athens|N|SCS_0002_007
+SCS_3030_005|SCS_3030_005|Y|Big Data Tools and Techniques Mining Financial, Operational and Social Network Data|N|SCS_0002_007
+SCS_3033_004|SCS_3033_004|Y|Foundations of Strategic Public Relations|N|SCS_0002_007
+SCS_3034_004|SCS_3034_004|Y|Public Relations: Advanced Practices and Case Studies|N|SCS_0002_007
+SCS_3035_003|SCS_3035_003|Y|Fundamentals of Business Innovation|N|SCS_0002_007
+SCS_3036_003|SCS_3036_003|Y|Designing Innovative Business Cases|N|SCS_0002_007
+SCS_3039_001|SCS_3039_001|Y|Systemizing Innovation|N|SCS_0002_007
+SCS_3042_001|SCS_3042_001|Y|Consumer Insights: Quantitative Research|N|SCS_0002_007
+SCS_3043_005|SCS_3043_005|Y|Project Recovery Methods|N|SCS_0002_007
+SCS_3080_005|SCS_3080_005|Y|French for Absolute Beginners|N|SCS_0002_007
+SCS_3080_013|SCS_3080_013|Y|French for Absolute Beginners (At Own Pace)|N|SCS_0002_007
+SCS_3086_002|SCS_3086_002|Y|Translation - Spanish to English|N|SCS_0002_007
+SCS_3105_001|SCS_3105_001|Y|Enterprise Architecture Development & Governance|N|SCS_0002_007
+SCS_3120_001|SCS_3120_001|Y|Creative Non-Fiction Master Class|N|SCS_0002_007
+SCS_3121_001|SCS_3121_001|Y|Writing the Memoir II|N|SCS_0002_007
+SCS_3124_001|SCS_3124_001|Y|English for Academic Studies (Distance Learning)|N|SCS_0002_007
+SCS_TEST_005|SCS_TEST_005|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TEST_006|SCS_TEST_006|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TEST_010|SCS_TEST_010|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TEST_011|SCS_TEST_011|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TEST_012|SCS_TEST_012|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TEST_008|SCS_TEST_008|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TEST_007|SCS_TEST_007|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TEST_009|SCS_TEST_009|Y|Introduction to Apps Development|N|SCS_0002_007
+SCS_TestB_004|SCS_TestB_004|Y|Advanced Apps Development|N|SCS_0002_007
+***FileFooter|347|20:00:01 15/04/2015
